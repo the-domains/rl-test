@@ -1,0 +1,28 @@
+name: RL-test
+favicon: null
+layout_spectrum: 0.4538270190823823
+typography_spectrum: 0.7121762030292302
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6123684558551759
+  lightness: 0.14990381989628077
+  saturation: 0.9077378665097058
+  rhythmicContrast: 0.4149872683919966
+purpose: []
